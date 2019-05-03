@@ -1,0 +1,29 @@
+{
+  "editor.mouseWheelZoom": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.tabSize": 2,
+  "eslint.options": {
+    "configFile": "/put/the/real/config/path/here",
+    "env": {
+      "jquery": true
+    }
+  },
+  "extensions.ignoreRecommendations": false,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "git.enabled": false,
+  "git.enableSmartCommit": true,
+  "gitlens.advanced.messages": {
+    "suppressGitDisabledWarning": true
+  },
+  "html.format.wrapAttributes": "force-aligned",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "search.location": "sidebar",
+  "vscode-json-editor.theme": "dark",
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "left",
+  "workbench.colorTheme": "Roseate",
+}
